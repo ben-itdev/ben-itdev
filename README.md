@@ -13,7 +13,6 @@
 ![Static Badge](https://img.shields.io/badge/.-Docker-blue?logo=docker)
 ![Static Badge](https://img.shields.io/badge/.-Jira-blue?logo=jira)
 ![Static Badge](https://img.shields.io/badge/.-JS-blue?logo=javascript)
-![Static Badge](https://img.shields.io/badge/.-Vue-blue?logo=vue)
 ![Static Badge](https://img.shields.io/badge/.-Lua-blue?logo=lua)
 
 ## GitHub School Account
