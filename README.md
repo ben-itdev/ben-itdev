@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.com/derstanby)
+[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discordapp.com/users/316864080281468928)
 
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ben-itdev&show_icons=true&theme=holi&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
