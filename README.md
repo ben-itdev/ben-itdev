@@ -13,7 +13,7 @@
 ![Static Badge](https://img.shields.io/badge/.-Docker-blue?logo=docker)
 ![Static Badge](https://img.shields.io/badge/.-Jira-blue?logo=jira)
 ![Static Badge](https://img.shields.io/badge/.-JS-blue?logo=javascript)
-![Static Badge](https://img.shields.io/badge/.-Vue-blue?logo=vuejs)
+![Static Badge](https://img.shields.io/badge/.-Vue-blue?logo=vue)
 
 ## GitHub School Account
 - https://github.com/ben-it-v2
