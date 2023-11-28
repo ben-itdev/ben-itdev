@@ -6,5 +6,8 @@
 ## Contributions from 2017
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ben-itdev)](https://git.io/streak-stats)
 
+## Technologies
+![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
+
 ## GitHub School Account
 - https://github.com/ben-it-v2
