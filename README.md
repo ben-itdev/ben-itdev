@@ -7,6 +7,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ben-itdev)](https://git.io/streak-stats)
 
 ## Technologies
+[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 ![badges1](https://img.shields.io/badge/any_text-you_like-blue)
 
 ## GitHub School Account
