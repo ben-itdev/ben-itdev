@@ -9,9 +9,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ben-itdev)](https://git.io/streak-stats)
 
 ## Technologies & tools
-![Static Badge](https://img.shields.io/badge/.-GitHub-purple?logo=github)
-![Static Badge](https://img.shields.io/badge/.-Docker-purple?logo=docker)
-![Static Badge](https://img.shields.io/badge/.-Jira-purple?logo=jira)
+![Static Badge](https://img.shields.io/badge/.-GitHub-blue?logo=github)
+![Static Badge](https://img.shields.io/badge/.-Docker-blue?logo=docker)
+![Static Badge](https://img.shields.io/badge/.-Jira-blue?logo=jira)
 
 ## GitHub School Account
 - https://github.com/ben-it-v2
