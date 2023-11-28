@@ -14,6 +14,8 @@
 ![Static Badge](https://img.shields.io/badge/.-Jira-blue?logo=jira)
 ![Static Badge](https://img.shields.io/badge/.-JS-blue?logo=javascript)
 ![Static Badge](https://img.shields.io/badge/.-Lua-blue?logo=lua)
+![Static Badge](https://img.shields.io/badge/.-C-blue?logo=c)
+![Static Badge](https://img.shields.io/badge/.-C++-blue?logo=cpp)
 ![Static Badge](https://img.shields.io/badge/.-Python-blue?logo=python)
 ![Static Badge](https://img.shields.io/badge/.-Npm-blue?logo=npm)
 
