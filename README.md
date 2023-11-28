@@ -15,6 +15,7 @@
 ![Static Badge](https://img.shields.io/badge/.-JS-blue?logo=javascript)
 ![Static Badge](https://img.shields.io/badge/.-Lua-blue?logo=lua)
 ![Static Badge](https://img.shields.io/badge/.-Python-blue?logo=python)
+![Static Badge](https://img.shields.io/badge/.-Npm-blue?logo=npm)
 
 ## GitHub School Account
 - https://github.com/ben-it-v2
