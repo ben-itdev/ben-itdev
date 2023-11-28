@@ -12,12 +12,14 @@
 ![Static Badge](https://img.shields.io/badge/.-GitHub-blue?logo=github)
 ![Static Badge](https://img.shields.io/badge/.-Docker-blue?logo=docker)
 ![Static Badge](https://img.shields.io/badge/.-Jira-blue?logo=jira)
+![Static Badge](https://img.shields.io/badge/.-Npm-blue?logo=npm)
 ![Static Badge](https://img.shields.io/badge/.-JS-blue?logo=javascript)
+![Static Badge](https://img.shields.io/badge/.-Vue-blue?logo=vue)
 ![Static Badge](https://img.shields.io/badge/.-Lua-blue?logo=lua)
 ![Static Badge](https://img.shields.io/badge/.-C-blue?logo=c)
 ![Static Badge](https://img.shields.io/badge/.-C++-blue?logo=c++)
 ![Static Badge](https://img.shields.io/badge/.-Python-blue?logo=python)
-![Static Badge](https://img.shields.io/badge/.-Npm-blue?logo=npm)
+
 
 ## GitHub School Account
 - https://github.com/ben-it-v2
