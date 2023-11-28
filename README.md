@@ -13,7 +13,7 @@
 ![Static Badge](https://img.shields.io/badge/.-Docker-blue?logo=docker)
 ![Static Badge](https://img.shields.io/badge/.-Jira-blue?logo=jira)
 ![Static Badge](https://img.shields.io/badge/.-Postman-blue?logo=postman)
-![Static Badge](https://img.shields.io/badge/.-Filezilla-blue?logo=filezilla)
+![Static Badge](https://img.shields.io/badge/.-FileZilla-blue?logo=filezilla)
 ![Static Badge](https://img.shields.io/badge/.-Npm-blue?logo=npm)
 ![Static Badge](https://img.shields.io/badge/.-JS-blue?logo=javascript)
 ![Static Badge](https://img.shields.io/badge/.-Vue-blue?logo=vue)
