@@ -13,6 +13,7 @@
 
 ## Technologies & tools
 ![Static Badge](https://img.shields.io/badge/.-GitHub-blue?logo=github)
+![Static Badge](https://img.shields.io/badge/.-GitHub-blue?logo=githubactions)
 ![Static Badge](https://img.shields.io/badge/.-Docker-blue?logo=docker)
 ![Static Badge](https://img.shields.io/badge/.-Jira-blue?logo=jira)
 ![Static Badge](https://img.shields.io/badge/.-Postman-blue?logo=postman)
