@@ -20,7 +20,7 @@
 ![Static Badge](https://img.shields.io/badge/.-Npm-blue?logo=npm)
 ![Static Badge](https://img.shields.io/badge/.-JS-blue?logo=javascript)
 ![Static Badge](https://img.shields.io/badge/.-TS-blue?logo=typescript)
-![Static Badge](https://img.shields.io/badge/.-Vue-blue?logo=vue)
+![Static Badge](https://img.shields.io/badge/.-Vue-blue?logo=vue.js)
 ![Static Badge](https://img.shields.io/badge/.-React-blue?logo=react)
 ![Static Badge](https://img.shields.io/badge/.-Lua-blue?logo=lua)
 ![Static Badge](https://img.shields.io/badge/.-C-blue?logo=c)
