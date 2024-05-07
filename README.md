@@ -19,10 +19,14 @@
 ![Static Badge](https://img.shields.io/badge/.-FileZilla-blue?logo=filezilla)
 ![Static Badge](https://img.shields.io/badge/.-Npm-blue?logo=npm)
 ![Static Badge](https://img.shields.io/badge/.-JS-blue?logo=javascript)
+![Static Badge](https://img.shields.io/badge/.-TS-blue?logo=typescript)
 ![Static Badge](https://img.shields.io/badge/.-Vue-blue?logo=vue)
+![Static Badge](https://img.shields.io/badge/.-React-blue?logo=react)
 ![Static Badge](https://img.shields.io/badge/.-Lua-blue?logo=lua)
 ![Static Badge](https://img.shields.io/badge/.-C-blue?logo=c)
 ![Static Badge](https://img.shields.io/badge/.-C++-blue?logo=c++)
+![Static Badge](https://img.shields.io/badge/.-MySQL-blue?logo=mysql)
+![Static Badge](https://img.shields.io/badge/.-MongoDB-blue?logo=mongodb)
 ![Static Badge](https://img.shields.io/badge/.-Python-blue?logo=python)
 
 
